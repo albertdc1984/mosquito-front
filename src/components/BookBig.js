@@ -48,7 +48,7 @@ export default function BookBig(props) {
           </Link>
           <div>
             <p>{props.title}</p>
-            <p>{props.collection}</p>
+            <p>{props.collection[0]}</p>
           </div>
         </DarkBox>
       ) : (
@@ -60,7 +60,7 @@ export default function BookBig(props) {
           </Link>
           <div>
             <p>{props.title}</p>
-            <p>{props.collection}</p>
+            <p>{props.collection[0]}</p>
           </div>
         </LightBox>
       )}

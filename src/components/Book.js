@@ -54,7 +54,7 @@ export default function Book(props) {
         </div>
         <div>
           <p>{props.title}</p>
-          <p>{props.collection}</p>
+          <p>{props.collection[0]}</p>
         </div>
       </LightBox>
     </>

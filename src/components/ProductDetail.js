@@ -113,7 +113,7 @@ export default function ProductDetail(props) {
           <StyledImage src={props.image} alt={props.alt} />
         </StyledDiv>
         <div>
-          <p>{props.collection}</p>
+          <p>{props.collection[0]}</p>
         </div>
       </LightBox>
       <DetailsBox>

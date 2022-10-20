@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Andy Warhol i Jean Michel Basquiat",
+    "id": "0",
+    "collection": ["Col·lecció DUOS", "DUO Collection"],
+    "cover": "warhol",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "isMain": 1,
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Frida Kahlo i Diego Rivera",
+    "id": "1",
+    "collection": ["Col·lecció DUOS", "DUO Collection"],
+    "cover": "frida",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "isMain": 2,
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+
+  {
+    "name": "Junglas: Selvas, bosques y reservas naturales de la tierra",
+    "id": "2",
+    "collection": ["Col·lecció Afina la mirada", "Eagle Eye"],
+    "cover": "junglas",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Oceans: Mars, illes i reserves naturals submarines",
+    "id": "3",
+    "collection": ["Col·lecció Afina la mirada", "Eagle Eye"],
+    "cover": "oceans",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Montañas: Cumbres, montes y valles de la tierra",
+    "id": "4",
+    "collection": ["Col·lecció Afina la mirada", "Eagle Eye"],
+    "cover": "montañas",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Natives Americans",
+    "id": "5",
+    "collection": ["Col·lecció People’s Stories"],
+    "cover": "natives",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Piratas",
+    "id": "6",
+    "collection": ["Col·lecció People’s Stories"],
+    "cover": "piratas",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Samurais",
+    "id": "7",
+    "collection": ["Col·lecció People’s Stories"],
+    "cover": "samurais",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Tribus",
+    "id": "8",
+    "collection": ["Col·lecció People’s Stories"],
+    "cover": "tribus",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+  {
+    "name": "Indochina: An amazing trip to Vietam, Laos, Cambodia, Myanmar and Thailand",
+    "id": "9",
+    "collection": ["Col·lecció La Tierra", "The Earth"],
+    "cover": "indochina",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  },
+
+  {
+    "name": "Antártida: El continente de los prodigios",
+    "id": "10",
+    "collection": ["Col·lecció La Tierra", "The Earth"],
+    "cover": "antartida",
+    "description": "A veces me pregunto qué quiero ser de mayor... no es fácil decidirse, porque algunos días deseo una profesión aventurera y otros me apetece ir de uniforme... Un bonito libro con aire vintage e ilustraciones deliciosas que nos invita a hacer un recorrido por las profesiones que más molan. ",
+    "prize": 18,
+    "author": "Eva Palomar",
+    "artist": "Àlez Novials",
+    "format": "Tapa dura/230x320mm",
+    "pages": 48,
+    "isbn": "978-1-8381865-2-4",
+    "themes": [
+      "Imaginación",
+      "ciudades",
+      "conocimiento sobre puertos",
+      "conocimientos geográficos"
+    ]
+  }
+]
